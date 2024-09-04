@@ -9,8 +9,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Directly set the API keys
-os.environ["COHERE_API_KEY"] = '1VJziJwcLmXBs2o4RYx4kGSBp75uY3IIThXEp1To'
-os.environ['GROQ_API_KEY'] = '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'
+os.environ["COHERE_API_KEY"] = 'Your_Cohere_Api_Key'
+os.environ['GROQ_API_KEY'] = 'Your_Groq_Api_Key'
 
 def main():
     # Sidebar with unique key
