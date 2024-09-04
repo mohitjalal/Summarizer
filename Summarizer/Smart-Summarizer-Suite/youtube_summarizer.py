@@ -12,7 +12,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Directly set the API key (replace with your actual key)
-os.environ['GROQ_API_KEY'] = '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'
+os.environ['GROQ_API_KEY'] = 'Your_Groq_Api_Key'
 
 # Set up the language model with the API key
 llm = ChatGroq(model='llama-3.1-70b-versatile')
