@@ -14,6 +14,7 @@ To install the libraries run command:
 ## Third Step:
 Generate your own groq and cohere api keys. 
 After generating keys import them in the code.( groq and cohere both keys in main.py and groq key in youtube_summarizer.py also).
+#### To Generate GROQ API Key use Groq Dashboard and to Generate Cohere Key use Cohere Dashboard.
 
 ## Fourth Step: 
 Run the main.py file by writing a command in terminal \
