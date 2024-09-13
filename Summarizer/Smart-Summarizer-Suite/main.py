@@ -65,7 +65,7 @@ def main():
     st.sidebar.markdown(
         f"""
         <div style='background-color: {background_color}; padding: 15px; border-radius: 10px;color:black''>
-        <p >This app was made by <strong>Neeraj Singh</strong> and <strong>Faisal Hussain</strong>.</p>
+        <p >This app was made by <strong>Mohit Jalal.</strong>.</p>
         <p >It uses state-of-the-art AI models from <strong>Cohere</strong> and <strong>Google</strong> to provide concise summaries of text, news articles, and video content.</p>
         <p >Simply select the content type from the options above, upload or paste your content, and get a summary in seconds!</p>
         </div>
@@ -120,7 +120,7 @@ def main():
         """
         <hr style="border-top: 1px solid #e6e6e6;">
         <div style='text-align: center;'>
-            <p >Made with ❤️ by Neeraj Singh and Faisal Hussain</p>
+            <p >Made with ❤️ by Mohit Jalal.</p>
         </div>
         """,
         unsafe_allow_html=True
